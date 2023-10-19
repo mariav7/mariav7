@@ -19,6 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.mariav7 }}
           svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Set snake-gif output
+        run: echo "::set-output name=svg_out_path::dist/github-contribution-grid-snake.svg"
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
