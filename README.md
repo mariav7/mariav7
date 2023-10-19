@@ -1,5 +1,5 @@
 ### Hi there 👋
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <!--
 **mariav7/mariav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
