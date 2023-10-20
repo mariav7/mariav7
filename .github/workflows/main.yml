@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  # run automatically every 12 hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */24 * * *" 
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -40,24 +40,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-#jobs:
-#  build:
-#    name: Jobs to update datas
-#    runs-on: ubuntu-latest
-#    steps:
-#      # Snake Animation
-#      - uses: Platane/snk@master
-#        id: snake-gif
-#        with:
-#          github_user_name: ${{ github.mariav7 }}
-#          svg_out_path: dist/github-contribution-grid-snake.svg
-#      - name: Set snake-gif output
-#        run: echo "::set-output name=svg_out_path::dist/github-contribution-grid-snake.svg"
-
-#      - uses: crazy-max/ghaction-github-pages@v3.1.0
-#        with:
-#          target_branch: output
-#          build_dir: dist
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
