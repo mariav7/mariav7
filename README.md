@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
+  <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
 </picture>
 
 <!--
@@ -14,7 +14,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Snake animation](https://github.com/mariav7/mariav7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg)
 
 Here are some ideas to get you started:
 
