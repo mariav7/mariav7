@@ -1,5 +1,13 @@
-### Hi there 👋
-
+Hi there 👋 !
+-------------------------------------- 
+### Student at 42 Paris
+-------------------------------------- 
+A little bit about me:
+* 🌍 I'm based in Paris
+* 📫 You can contact me at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
+* 💬 I speak fluent: french, english and spanish
+* 🌱 I’m currently learning: HTTP requests, TCP/IP and about writting my own HTTP server ...
+* I like learning and implementing new things like this :point_down::
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
@@ -16,14 +24,4 @@
 
 ![Snake animation](https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
