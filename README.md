@@ -6,7 +6,7 @@ A little bit about me:
 * 🌍 I'm based in Paris, Fance
 * 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
 * 💬 I speak fluent: french, english and spanish
-* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#languages-and-tools) ...
+* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#languages-and-tools)
 
 <p align="center">
   <img
@@ -48,17 +48,3 @@ A little bit about me:
   <a href="https://discordapp.com/users/710207757550223392" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord chelofv" height="40" width="40" /></a>
   <a href="https://mariav7.github.io" target="_blank"><img align="center" src="https://github.com/mariav7/mariav7.github.io/blob/master/images/favicon-32x32.png" alt="Personal website" height="40" width="40" /></a>
 </p>
-
-<!--
-<p align="center"><img  width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&theme=gotham&hide=python,roff"/>
-  <img width="40%" align="right" src="https://i.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp" alt="pudgy-penguins" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake animation](https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg)
--->
