@@ -42,9 +42,9 @@ A little bit about me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mflores-" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mflores-" height="30" width="40" /></a>
-  <a href="https://discord.gg/chelofv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chelofv" height="40" width="40" /></a>
-  <a href="https://mariav7.github.io" target="_blank"><img align="center" src="https://github.com/mariav7/mariav7.github.io/blob/master/images/favicon-32x32.png" alt="CVenLigne" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/mflores-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mflores-" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/710207757550223392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chelofv" height="40" width="40" /></a>
+  <a href="https://mariav7.github.io" target="blank"><img align="center" src="https://github.com/mariav7/mariav7.github.io/blob/master/images/favicon-32x32.png" alt="CVenLigne" height="40" width="40" /></a>
 </p>
 
 <!--
