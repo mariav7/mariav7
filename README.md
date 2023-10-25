@@ -6,7 +6,7 @@ A little bit about me:
 * 🌍 I'm based in Paris, Fance
 * 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
 * 💬 I speak fluent: french, english and spanish
-* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using C++ ...
+* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#languages-and-tools) ...
 
 <p align="center">
   <img
