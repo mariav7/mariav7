@@ -1,12 +1,18 @@
 Hi there 👋, my name is Maria aka (Chelo)
 ======
-### I'm a student at [42 Paris](https://42.fr/en/homepage/ "école 42")
-------
-A little bit about me:
+### A little bit about me:
 * 🌍 I'm based in Paris, Fance
+* 🏫 I'm a student at [42 Paris](https://42.fr/en/homepage/ "école 42")
 * 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
 * 💬 I speak fluent: french, english and spanish
 * 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#languages-and-tools)
+* 💪 I like learning and implementing new things :point_down:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
+  <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
+</picture>
 
 <p align="center">
   <img
@@ -16,14 +22,6 @@ A little bit about me:
   />
   <img width="35%" src="https://i.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp" alt="pudgy-penguins" />
 </p>
-
-
-* I like learning and implementing new things :point_down::
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
-  <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
-</picture>
 
 ### Languages and Tools:
 ***
