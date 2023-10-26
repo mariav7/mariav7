@@ -5,7 +5,7 @@ Hi there 👋, my name is Maria aka (Chelo)
 * 🏫 I'm a student at [42 Paris](https://42.fr/en/homepage/ "école 42")
 * 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
 * 💬 I speak fluent: french, english and spanish
-* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#languages-and-tools)
+* 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#stack)
 * 💪 I enjoy acquiring and applying new knowledge and skills :point_down:
 
 <picture>
@@ -25,7 +25,7 @@ Hi there 👋, my name is Maria aka (Chelo)
   <img width="35%" src="https://i.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp" alt="pudgy-penguins" />
 </p>
 
-### Languages and Tools:
+### Stack:
 ***
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
