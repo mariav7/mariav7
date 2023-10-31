@@ -8,14 +8,6 @@ Hi there 👋, my name is Maria (aka Chelo)
 * 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#stack)
 * 💪 I enjoy acquiring and applying new knowledge and skills :point_down:
 
-<div align="center" >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
-    <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
-  </picture>  
-</div>
-
 <br>
 
 ### Stack:
@@ -31,7 +23,7 @@ Hi there 👋, my name is Maria (aka Chelo)
       />
     </th>
     <th align="center" width="50%" colspan="2">
-      <img width="100%" src="https://i.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp" alt="pudgy-penguins" />
+      <img width="100%" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="coding" />
     </th>
   </tr>
   <tr>
@@ -110,6 +102,15 @@ Hi there 👋, my name is Maria (aka Chelo)
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
+        <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
+      </picture>
     </td>
   </tr>
 </table>
