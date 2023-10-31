@@ -14,16 +14,6 @@ Hi there 👋, my name is Maria aka (Chelo)
   <img alt="my-github-snake" src="https://github.com/mariav7/mariav7/blob/output/github-snake.svg">
 </picture>
 <br>
-<br>
-<br>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=donut-vertical&theme=radical&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-    width="30%"
-  />
-  <img width="35%" src="https://i.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp" alt="pudgy-penguins" />
-</p>
 
 ### Stack:
 ***
