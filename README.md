@@ -1,4 +1,4 @@
-Hi there 👋, my name is Maria aka (Chelo)
+Hi there 👋, my name is Maria (aka Chelo)
 ======
 ### A little bit about me:
 * 🌍 I'm based in Paris, France
