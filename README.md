@@ -4,7 +4,7 @@ Hi there 👋, my name is Maria (aka Chelo)
 * 🌍 I'm based in Paris, France
 * 🏫 I'm a student at [42 Paris](https://42.fr/en/homepage/ "école 42")
 * 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
-* 💬 I speak fluent: french, english and spanish
+* 💬 I speak fluent: French, English and Spanish
 * 🧠 I’m currently learning: HTTP requests, TCP/IP and about creating my own HTTP server using [C++](#stack)
 * 💪 I enjoy acquiring and applying new knowledge and skills :point_down:
 
