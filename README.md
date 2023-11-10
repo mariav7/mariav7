@@ -16,7 +16,7 @@ Hi, my name is Maria (aka Chelo)
   <tr>
     <th align="center" width="50%" colspan="2" >
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=donut-vertical&theme=radical&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true"
         media="(prefers-color-scheme: dark)"
         width="100%"
         alt="Stats"
@@ -40,10 +40,10 @@ Hi, my name is Maria (aka Chelo)
       <br>C++
     </td>
     <td align="center" >
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/2048px-Docker-svgrepo-com.svg.png" width="48" height="48" alt="Docker" />
+      <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" width="48" height="48" alt="Bash" />
       </a>
-      <br>Docker
+      <br>Bash
     </td>
     <td align="center" >
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -98,10 +98,10 @@ Hi, my name is Maria (aka Chelo)
       <br>Python
     </td>
     <td align="center" >
-      <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" width="48" height="48" alt="Bash" />
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/2048px-Docker-svgrepo-com.svg.png" width="48" height="48" alt="Docker" />
       </a>
-      <br>Bash
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -116,33 +116,27 @@ Hi, my name is Maria (aka Chelo)
 </table>
 
 <br>
-<br>
-<br>
 
 ### Connect with me:
 ***
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="30%" colspan="3">
-      <img src="https://i.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.webp" alt="contact me" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+    <td align="center" width="33%" colspan="3" >
       <a href="https://linkedin.com/in/mflores-" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn mflores-" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn mflores-" width="50" />
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="33%" colspan="3">
       <a href="https://mariav7.github.io" target="_blank" rel="noreferrer">
-        <img src="https://github.com/mariav7/mariav7.github.io/blob/master/images/favicon-32x32.png" alt="Personal website" width="48" height="48" />
+        <img src="https://github.com/mariav7/mariav7.github.io/blob/master/images/favicon-32x32.png" alt="Personal website" width="50" />
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="33%" colspan="3">
       <a href="https://discordapp.com/users/710207757550223392" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord chelofv" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord chelofv" width="50" />
       </a>
     </td>
   </tr>
 </table>
 
+---
