@@ -24,6 +24,8 @@ jobs:
           sed -i 's|<img.*github-readme-stats.*>|<img src="stats.svg" alt="Stats">|g' README.md
 
           # Commit the changes
+          git config --global user.email "mflores-@student.42.fr"
+          git config --global user.name "mflores-"
           git add README.md
           git commit -m "Update stats"
           git push
