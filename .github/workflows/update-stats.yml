@@ -24,6 +24,8 @@ jobs:
           sed -i '/alt="Stats"/s|<img.*>|<img src="stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%">|g' README.md
 
           set -x
+          pwd
+          ls
 
           # Commit the changes
           git config --global user.email "mflores-@student.42.fr"
