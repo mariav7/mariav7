@@ -23,6 +23,8 @@ jobs:
           # Replace the existing SVG with the updated one in your README
           sed -i '/alt="Stats"/s|<img.*>|<img src="stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%">|g' README.md
 
+          set -x
+
           # Commit the changes
           git config --global user.email "mflores-@student.42.fr"
           git config --global user.name "mflores-"
