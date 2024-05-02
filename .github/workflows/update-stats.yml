@@ -1,6 +1,9 @@
 name: Update README stats
 
 on:
+  schedule:
+    - cron: '* * * * *'
+    # - cron: '0 0 * * 0'
   push:
     branches:
       - master
@@ -22,5 +25,5 @@ jobs:
 
         # Commit the changes
           git add README.md
-          git commit -m "Update stats"
+          git commit -m "Update statss"
           git push
