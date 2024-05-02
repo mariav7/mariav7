@@ -1,0 +1,26 @@
+name: Update README stats
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Stats
+        run: |
+          curl -o stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
+
+        # Replace the existing SVG with the updated one in your README
+          sed -i 's|<img.*github-readme-stats.*>|<img src="stats.svg" alt="Stats">|g' README.md
+
+        # Commit the changes
+          git add README.md
+          git commit -m "Update stats"
+          git push
