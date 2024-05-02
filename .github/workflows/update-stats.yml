@@ -19,14 +19,9 @@ jobs:
       - name: Update Stats
         run: |
           wget -O $GITHUB_WORKSPACE/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
-          # curl -o $GITHUB_WORKSPACE/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
-          ls
+
           # Replace the existing SVG with the updated one in your README
           sed -i '/<table align="center" width="100%">/{:a;N;/<\/table>/!ba;s|<img[^>]*>|<img src="stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%">|}' README.md
-          ls
-          rm stats.svg
-          ls
-          cat README.md | grep "Stats"
 
           # Commit the changes
           git config --global user.email "mflores-@student.42.fr"
@@ -34,3 +29,4 @@ jobs:
           git add README.md
           git commit -m "UPDATE: README.md stats"
           git push
+          rm stats.svg
