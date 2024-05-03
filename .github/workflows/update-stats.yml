@@ -23,7 +23,7 @@ jobs:
 
       - name: Update Stats
         run: |
-          wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
+          wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true?sanitize=true
           ls -l ./misc
           git status
           git config --global user.email "mflores-@student.42.fr"
