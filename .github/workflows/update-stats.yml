@@ -31,7 +31,7 @@ jobs:
 
       - name: Convert SVG to PNG
         run: |
-          convert -background none -font sans-serif ./misc/stats.svg ./misc/stats.png
+          convert -background none -font DejaVu-Sans ./misc/stats.svg ./misc/stats.png
           rm ./misc/stats.svg
           git status
           git config --global user.email "mflores-@student.42.fr"
