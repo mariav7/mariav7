@@ -17,6 +17,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      - name: Create misc folder if not exists
+        run: |
+          mkdir -p ./misc
+
       - name: Update Stats
         run: |
           wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
