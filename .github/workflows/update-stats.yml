@@ -27,7 +27,7 @@ jobs:
           ls -l ./misc
 
       - name: Convert SVG to PNG
-        uses: arcanis/svg-to-png-action@v1
+        uses: joseaeltala/convert-svg-to-png@only-convert
         with:
           input: ./misc/stats.svg
           output: ./misc/stats.png
@@ -40,4 +40,9 @@ jobs:
           git config --global user.name "mflores-"
           git add .
           git commit -m "UPDATE: README.md stats"
-          git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
