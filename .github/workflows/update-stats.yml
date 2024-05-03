@@ -23,8 +23,18 @@ jobs:
 
       - name: Update Stats
         run: |
-          wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true?sanitize=true
+          wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
           ls -l ./misc
+
+      - name: Convert SVG to PNG
+        uses: arcanis/svg-to-png-action@v1
+        with:
+          input: ./misc/stats.svg
+          output: ./misc/stats.png
+
+      - name: add changes to Github
+        run: |
+          rm ./misc/stats/.svg
           git status
           git config --global user.email "mflores-@student.42.fr"
           git config --global user.name "mflores-"
