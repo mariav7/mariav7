@@ -20,14 +20,14 @@ jobs:
       - name: Update Stats
         run: |
           wget -O $GITHUB_WORKSPACE/misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
-
+          ls -R
           # Replace the existing SVG with the updated one in your README
-          sed -i '/<table align="center" width="100%">/{:a;N;/<\/table>/!ba;s|<img[^>]*alt="Stats"[^>]*>|<img src="./misc/stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%">|}' README.md
-          # sed -i '/<table align="center" width="100%">/{:a;N;/<\/table>/!ba;s|<img[^>]*>|<img src="misc/stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%">|}' README.md
-
+          sed -i '/<table align="center" width="100%">/{:a;N;/<\/table>/!ba;s|<img[^>]*alt="Stats"[^>]*>|<img src="./misc/stats.svg" alt="Stats" media="(prefers-color-scheme: dark)" width="100%" />|}' README.md
+          # sed -i '/<table align="center" width="100%">/{:a;N;/<\/table>/!ba;s|<img[^>]*>|<img src="misc/stats.svg" alt="Statsss" media="(prefers-color-scheme: dark)" width="100%">|}' README.md
+          cat README.md
           # Commit the changes
           git config --global user.email "mflores-@student.42.fr"
           git config --global user.name "mflores-"
-          git add README.md misc/stats.svg
+          git add .
           git commit -m "UPDATE: README.md stats"
           git push
