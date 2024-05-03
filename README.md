@@ -14,7 +14,7 @@ Hi, my name is Maria (aka Chelo)
   <tr>
     <th align="center" width="50%" colspan="2" >
       <img
-        src="./misc/stats.png"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true"
         media="(prefers-color-scheme: dark)"
         width="100%"
         alt="Stats"
