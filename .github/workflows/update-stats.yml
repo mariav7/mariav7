@@ -25,14 +25,6 @@ jobs:
         run: |
           wget -O ./misc/stats.svg https://github-readme-stats.vercel.app/api/top-langs/?username=mariav7&layout=compact&theme=radical&hide_border=true
           ls -l ./misc
-
-      - name: Install ImageMagick
-        run: sudo apt-get install imagemagick
-
-      - name: Convert SVG to PNG
-        run: |
-          convert -background none -font DejaVu-Sans ./misc/stats.svg ./misc/stats.png
-          rm ./misc/stats.svg
           git status
           git config --global user.email "mflores-@student.42.fr"
           git config --global user.name "mflores-"
