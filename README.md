@@ -1,10 +1,7 @@
 Hi, my name is Maria (aka Chelo)
 ======
-### A little bit about me:
-* 🌍 I'm based in Paris, France
-* 🏫 I'm a student at [42 Paris](https://42.fr/en/homepage/ "école 42")
-* 📫 You can [contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
-* 💬 I speak fluent: French, English and Spanish
+* 🌍 Based in Paris, France
+* 📫 [Contact me](#connect-with-me) at [mflores-@student.42.fr](mailto:mflores-@student.42.fr)
 
 <br>
 
